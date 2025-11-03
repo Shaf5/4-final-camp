@@ -132,3 +132,4 @@ These challenges make **CAMP** both a technically engaging and impactful project
 ---
 
 ⭐ *CAMP — Simplifying campus borrowing, one platform at a time.*
+ going to add details for sprint 1
